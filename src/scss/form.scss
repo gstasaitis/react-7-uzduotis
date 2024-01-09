@@ -1,0 +1,21 @@
+@import "variables";
+
+/* Form page */
+h1 {
+    margin: 15px;
+}
+
+form {
+  margin: 15px;
+  max-width: 600px;
+}
+
+input,
+button {
+  display: block;
+  margin: 15px 0;
+  width: 100%;
+  padding: 10px;
+  font-size: 1.5em;
+  box-sizing: border-box;
+}
